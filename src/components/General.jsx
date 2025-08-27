@@ -23,13 +23,7 @@ function General() {
         setPhone(newPhone);
     }
 
-    const handleEdit = () => {
-        console.log("edit being clicked");
-        
-    }
-
     const handleSubmit = () => {
-        console.log("submit being clicked");
         const newSubmit = !submitted;
         setSubmit(newSubmit);
     }
