@@ -1,0 +1,27 @@
+.general-wrapper {
+    border-bottom: solid white 1px;
+    padding-bottom: 20px;
+}
+
+.general-header {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.general-input-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content:left;
+    align-items:start;
+}
+
+.general-label {
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+
+.general-input {
+    font-size: 18px;
+    margin-bottom: 20px;
+    width: 100%;
+}
