@@ -1,0 +1,36 @@
+.practical-wrapper {
+    border-bottom: solid white 1px;
+    padding-bottom: 20px;
+}
+
+.practical-header {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.practical-input-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content:left;
+    align-items:start;
+}
+
+.practical-label {
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+
+.practical-input {
+    font-size: 18px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.practical-date-row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.practical-date-item {
+    padding: 0px 10px;
+}

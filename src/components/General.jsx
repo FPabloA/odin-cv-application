@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import './General.css'
+import '../styles/General.css'
 
 function General() {
     //const[info, setInfo] = useState({name:"", email:"", phone:""});
